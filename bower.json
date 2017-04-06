@@ -1,0 +1,14 @@
+{
+  "name": "typescript-book",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Mike Chan <chanm0003@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/chanmike/TSB",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
